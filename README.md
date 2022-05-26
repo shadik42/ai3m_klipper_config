@@ -1,1 +1,1 @@
-# ai3m_klipper_config
+# Klipper config for Anycubic i3 mega with TMC 2209 and BTT mini 12864 v1.0
